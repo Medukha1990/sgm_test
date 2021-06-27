@@ -1,0 +1,15 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+.centerContent {
+	margin: 100px auto;
+	width: 400px;
+}
+
+.buttonContent {
+	display: flex;
+	justify-content: space-between;
+}
+
+.blue.darken-1 {
+	background-color: #26a69a !important;
+}

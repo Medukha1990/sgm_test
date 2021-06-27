@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"jwtSecret": "Medukha",
+	"mongoUri": "mongodb+srv://Medukha:7041990@cluster0.wakgy.mongodb.net/app?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
